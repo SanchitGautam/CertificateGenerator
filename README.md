@@ -1,1 +1,1 @@
-# CertificateGenerator
+* Certificate Generator
